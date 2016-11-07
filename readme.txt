@@ -1,1 +1,1 @@
-leargit status +V
+leargit status +V test
