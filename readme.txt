@@ -1,1 +1,1 @@
-leargit
+leargit status
