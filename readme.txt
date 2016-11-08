@@ -9,3 +9,5 @@ leargit status +V test
 
 测试冲突解决
 
+add merge
+
